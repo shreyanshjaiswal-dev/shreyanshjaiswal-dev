@@ -41,5 +41,5 @@ Amazon PartyRock, Google AI Studio
 
 ## 🤝 Let's Connect
 
-- LinkedIn: [LinkedIn](www.linkedin.com/in/shreyanshjaiswal-dev)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/shreyanshjaiswal-dev/)
 - Email: 2k25cse2514100@gmail.com
